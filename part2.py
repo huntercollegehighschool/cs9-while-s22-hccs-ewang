@@ -11,3 +11,7 @@ Hunter
 Hunter
 
 '''
+number = int(input("Times to print: "))
+for i in range(number):
+  print("Hunter")
+
